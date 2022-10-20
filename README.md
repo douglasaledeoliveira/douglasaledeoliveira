@@ -14,5 +14,5 @@
 </div>
 
 ### Contacts 👋
-📧 douglasaledeoliveira@gmail.com
+📧 douglasaledeoliveira@gmail.com <br />
 <a href="https://bit.ly/3SkEYdx" target="_blank">Linkedin</a>
